@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-25T02:23:33.917Z'
+datePublished: '2016-06-25T02:23:37.883Z'
 sourcePath: >-
   _posts/2016-04-16-thinking-inside-the-box-prepd-reinvents-the-lunchbox-or-life.md
 inFeed: true
@@ -20,7 +20,7 @@ keywords:
   - diet
 related: []
 author: []
-dateModified: '2016-06-25T02:23:33.672Z'
+dateModified: '2016-06-25T02:23:37.696Z'
 title: Jessica Rousseau
 app_links: []
 publisher:
@@ -35,7 +35,7 @@ description: >-
   indeed.
 inLanguage: en
 inNav: false
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
